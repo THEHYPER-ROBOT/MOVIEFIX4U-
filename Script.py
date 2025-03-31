@@ -59,7 +59,7 @@ Cʜᴀɴɴᴇʟ Uꜱᴀɢᴇ:
 • Uᴘᴅᴀᴛᴇꜱ: @ACXBOTZ_UPDATE
 • Sᴜᴘᴘᴏʀᴛ: @ACX_DISCUSSION 
 
- <b><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/THEHYPER_ACX>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i></b>"""
+ <b><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/THEHYPER_ACX'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i></b>"""
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
