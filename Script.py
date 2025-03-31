@@ -11,7 +11,7 @@ Add me to your channel to instantly generate links for any downloadable media. O
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.6 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    HELP_TXT = """<b>ʏᴏᴜ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴍᴀɴʏ ᴄᴏᴍᴍᴇɴᴛs ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ \n\nᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ғɪʟᴇs ᴀɴᴅ I ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴅɪʀᴇᴄᴛ ʙᴏᴡɴʟᴏᴀᴅ & sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋ\n\nᴀʟsᴏ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴀɴᴅ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💥\n\nғᴏʀ ᴍᴏʀᴇ, ᴜꜱᴇ /help ᴄᴏᴍᴍᴀɴᴅ\nᴍᴏʀᴇ, ᴜꜱᴇ /about ᴄᴏᴍᴍᴀɴᴅ</b>"""
+    HELP_TXT = """<b>ʏᴏᴜ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴍᴀɴʏ ᴄᴏᴍᴍᴇɴᴛs ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ \n\nᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ғɪʟᴇs ᴀɴᴅ I ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴅɪʀᴇᴄᴛ ʙᴏᴡɴʟᴏᴀᴅ & sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋ\n\nᴀʟsᴏ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴀɴᴅ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 🥀\n\nғᴏʀ ᴍᴏʀᴇ, ᴜꜱᴇ /help ᴄᴏᴍᴍᴀɴᴅ\nᴍᴏʀᴇ, ᴜꜱᴇ /about ᴄᴏᴍᴍᴀɴᴅ</b>"""
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
@@ -56,10 +56,10 @@ Cʜᴀɴɴᴇʟ Uꜱᴀɢᴇ:
 🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.
 
 📮 Hᴇʟᴘ & Sᴜᴘᴘᴏʀᴛ:
-• Uᴘᴅᴀᴛᴇꜱ: @AV_BOTz_UPDATE
-• Sᴜᴘᴘᴏʀᴛ: @AV_SUPPORT_GROUP
+• Uᴘᴅᴀᴛᴇꜱ: @ACXBOTZ_UPDATE
+• Sᴜᴘᴘᴏʀᴛ: @ACX_DISCUSSION 
 
- <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/AV_OWNER_BOT'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
+ <b><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/THEHYPER_ACX>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i></b>"""
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
@@ -72,8 +72,8 @@ Nᴀᴍᴇ - {}"""
     ABOUT_TXT = """<b>╔═══❰ {} ❱══════❍
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AV_OWNER_BOT'>ᴀᴠ ᴄʜᴀᴛ ᴏᴡɴᴇʀ</a>
-║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/AV_BOTz_UPDATE>ᴀᴠ ʙᴏᴛᴢ</a>
+║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/THEHYPER_ACX'>ACX ᴄʜᴀᴛ ᴏᴡɴᴇʀ</a>
+║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/ACXBOTZ_UPDATE>ACX ʙᴏᴛᴢ</a>
 ║┣⪼⏲️ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ 
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
