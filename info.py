@@ -82,7 +82,7 @@ HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
     URL = "https://roasted-steffi-scxcommunity-04aa6dfa.koyeb.app/".format(FQDN)
 else:
-    URL = "http://roasted-steffi-scxcommunity-04aa6dfa.koyeb.app/".format(FQDN, "" if NO_PORT else ":" + str(PORT))
+    URL = "https://roasted-steffi-scxcommunity-04aa6dfa.koyeb.app/".format(FQDN, "" if NO_PORT else ":" + str(PORT))
       
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
