@@ -24,8 +24,8 @@ OWNER_USERNAME = environ.get("OWNER_USERNAME", 'THEHYPER_ACX') # without @
 PICS = environ.get('PICS', 'https://envs.sh/_pM.jpg')
 
 # channel link information
-CHANNEL = environ.get('CHANNEL', 'https://t.me/AV_BOTz_UPDATE')
-SUPPORT = environ.get('SUPPORT', 'https://t.me/AV_SUPPORT_GROUP')
+CHANNEL = environ.get('CHANNEL', 'https://t.me/ACXBOTZ_UPDATE')
+SUPPORT = environ.get('SUPPORT', 'https://t.me/ACX_DISCUSSION')
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
@@ -51,7 +51,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "iamnobita1")
 
 # fsub  information
 AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/AwV.jpg')              
-AUTH_CHANNEL = (environ.get("AUTH_CHANNEL", "-100"))
+AUTH_CHANNEL = (environ.get("AUTH_CHANNEL", "-1002326594935"))
 FSUB = environ.get("FSUB", True)
 
 # port information
