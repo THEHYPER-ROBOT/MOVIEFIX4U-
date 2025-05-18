@@ -11,7 +11,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'Webavbot')
 API_ID = int(environ.get('API_ID', '21134445'))
 API_HASH = environ.get('API_HASH', '231c18ea7273824491d6bf05425ab74e')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7663563727:AAEW_FdaTGHd20m1vWgGfiHcGddQkJpMZ20")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 BOT_USERNAME = environ.get("BOT_USERNAME", 'ACXVIDEOSTREAMXBOT') # without @ 
 
 # Admins, Channels & Users
