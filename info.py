@@ -80,9 +80,9 @@ else:
 FQDN = str(getenv('FQDN', BIND_ADDRESS)) if not ON_HEROKU or getenv('FQDN', '') else APP_NAME+'.herokuapp.com'
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://moviefix4u.onrender.com".format(FQDN)
+    URL = "https://jolly-carie-acxbots-62f1838b.koyeb.app/".format(FQDN)
 else:
-    URL = "https://moviefix4u.onrender.com".format(FQDN, "" if NO_PORT else ":" + str(PORT))
+    URL = "https://jolly-carie-acxbots-62f1838b.koyeb.app/".format(FQDN, "" if NO_PORT else ":" + str(PORT))
       
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
